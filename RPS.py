@@ -1,4 +1,3 @@
-
 import sys
 import random
 choises=["R","P","S"]
@@ -60,4 +59,5 @@ if __name__ =="__main__":
     print("----------RPS---------")
     print("----------------------")
     main()
+
 
