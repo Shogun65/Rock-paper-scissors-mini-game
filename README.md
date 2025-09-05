@@ -18,4 +18,4 @@ This was made as a fun project while learning Python (1 month + 10 days of codin
 1. Make sure you have **Python 3.x** installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Shogun65/Rock-paper-scissors-mini-game.git
